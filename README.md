@@ -1,2 +1,2 @@
 # docker-project
-This repository is for docker projects
+This repository is for jupiter docker projects
